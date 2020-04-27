@@ -1,1 +1,2 @@
 - [Useful FIX protocol links](fixprotocol.md)
+- [C++ Notes](cxxnotes.md)
